@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ExampleDatabaseTest::testModelFindAll":8,"ExampleDatabaseTest::testSoftDeleteLeavesRow":8,"BmiModelTest::testInterpretBmi":7},"times":{"ExampleSessionTest::testSessionSimple":0.008,"BmiModelTest::testCalculateBmi":0.002,"BmiModelTest::testInterpretBmi":0.01,"HealthTest::testIsDefinedAppPath":0.001,"HealthTest::testBaseUrlHasBeenSet":0.003}}
